@@ -1,0 +1,10 @@
+C:\Users\esouza\documents\visual studio 2010\Projects\Mvc3Tests\CommonUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\esouza\documents\visual studio 2010\Projects\Mvc3Tests\CommonUtils\bin\Debug\CommonUtils.dll
+C:\Users\esouza\documents\visual studio 2010\Projects\Mvc3Tests\CommonUtils\bin\Debug\CommonUtils.pdb
+C:\Users\esouza\documents\visual studio 2010\Projects\Mvc3Tests\CommonUtils\obj\Debug\CommonUtils.dll
+C:\Users\esouza\documents\visual studio 2010\Projects\Mvc3Tests\CommonUtils\obj\Debug\CommonUtils.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CommonUtils\bin\Debug\CommonUtils.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CommonUtils\bin\Debug\CommonUtils.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\CommonUtils\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\CommonUtils\obj\Debug\CommonUtils.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\CommonUtils\obj\Debug\CommonUtils.pdb
